@@ -1,4 +1,4 @@
-The Graph Description Language is a doamin-specific language for graph theory. Below is the BNF definition of the language
+The Graph Description Language is a domain-specific language for graph theory. Below is the BNF definition of the language
 
 ```
 <program> ::= <statement> | <statement> <program>
